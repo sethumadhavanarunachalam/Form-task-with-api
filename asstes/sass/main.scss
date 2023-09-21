@@ -1,0 +1,62 @@
+.overallform {
+  margin-left: 20%;
+}
+*{
+  // background-color: lightgray
+}
+.btn {
+  margin-top: 5%;
+  margin-left: 40%;
+}
+
+.ptagofform {
+  margin-left: 10%;
+}
+.error {
+  color: red;
+  font-size: 16px;
+  margin-top: 5px;
+}
+
+.input-group.success input {
+  border-color: #0cc477;
+}
+.input-group.error input {
+  border-color: red;
+}
+#mailerror {
+  color: red;
+}
+#usererror {
+  color: red;
+}
+#locationerror {
+  color: red;
+}
+#gendererror {
+  color: red;
+}
+#mailsuccess {
+  color: green;
+}
+#usersuccess {
+  color: green;
+}
+#locationsuccess {
+  color: green;
+}
+#gendersuccess {
+  color: green;
+}
+.alert{
+  margin-bottom: 10px;
+
+  text-align: center;
+  justify-content: center;
+}
+.danger-msg{
+  height: 80px;
+}
+.toast{
+margin-left: auto;
+}
